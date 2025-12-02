@@ -1,7 +1,4 @@
-package interviewQuestions.dto;
-
-import java.util.*;
-import java.util.stream.*;
+package interviewQuestions.Intermediate.dto;
 
 public class Employee {
     private int id;

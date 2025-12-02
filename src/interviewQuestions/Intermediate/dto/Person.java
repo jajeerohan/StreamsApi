@@ -1,4 +1,4 @@
-package interviewQuestions.dto;
+package interviewQuestions.Intermediate.dto;
 
 public class Person {
     private String name;

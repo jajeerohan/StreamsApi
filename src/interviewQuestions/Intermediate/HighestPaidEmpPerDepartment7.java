@@ -1,6 +1,6 @@
 package interviewQuestions.Intermediate;
 
-import interviewQuestions.dto.Employee;
+import interviewQuestions.Intermediate.dto.Employee;
 
 import java.util.*;
 import java.util.stream.Collectors;

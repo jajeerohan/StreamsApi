@@ -1,6 +1,6 @@
 package interviewQuestions.Intermediate;
 
-import interviewQuestions.dto.Employee;
+import interviewQuestions.Intermediate.dto.Employee;
 
 import java.util.List;
 import java.util.Map;

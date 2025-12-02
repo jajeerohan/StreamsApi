@@ -1,6 +1,6 @@
 package interviewQuestions.Intermediate;
 
-import interviewQuestions.dto.Person;
+import interviewQuestions.Intermediate.dto.Person;
 
 import java.util.Arrays;
 import java.util.List;
