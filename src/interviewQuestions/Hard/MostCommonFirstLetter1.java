@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class MostCommonFirstLetter {
+public class MostCommonFirstLetter1 {
     public static void main(String[] args) {
         List<Employee> employees = List.of(
                 new Employee(1,"John", "IT", 60000),

@@ -3,7 +3,7 @@ package interviewQuestions.Hard;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class LongestWordFinder {
+public class LongestWordFinder2 {
     public static void main(String[] args) {
         String sentence = "The quick, brown fox jumped over the lazy dog!";
 

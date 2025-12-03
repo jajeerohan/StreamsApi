@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
-public class SlidingWindowAverage {
+public class SlidingWindowAverage3 {
     public static void main(String[] args) {
         List<Integer> input = Arrays.asList(4, 8, 15, 16, 23, 42);
 
